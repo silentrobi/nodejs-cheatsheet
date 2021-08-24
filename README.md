@@ -8,7 +8,7 @@
 
 It contains project dependencies and scripts to run node application.
 
-```json
+```js
 {
   "name": "demo", //project name
   "version": "1.0.0", // project version https://docs.npmjs.com/about-semantic-versioning
@@ -62,7 +62,7 @@ Install core package dependencies as follow.
 
 ## Understanding `package.json`
 
-```json
+```js
 {
   "name": "demo",
   "version": "1.0.0",
@@ -100,7 +100,7 @@ Install core package dependencies as follow.
 ## Understanding `tsconfig.json`
 
 **Sample example**
-```json
+```js
 {
   "compilerOptions": {
     "lib": ["es5", "es6"], //Specify a set of bundled library declaration files that describe the target runtime environment.

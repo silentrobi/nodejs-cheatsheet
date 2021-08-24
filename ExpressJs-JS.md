@@ -6,7 +6,7 @@
 
 It contains project dependencies and scripts to run node application.
 
-```json
+```js
 {
   "name": "demo", //project name
   "version": "1.0.0", // project version https://docs.npmjs.com/about-semantic-versioning

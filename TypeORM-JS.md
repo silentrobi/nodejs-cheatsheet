@@ -63,7 +63,7 @@ module.exports = [
 
 # Migration and Seed Scripts in `package.json`:
 
-```json
+```js
 "migrate:create": "typeorm migration:create -n",
 "migrate:up": "typeorm migration:run",
 "migrate:down": "typeorm migration:revert",

@@ -12,7 +12,7 @@ Install core package dependencies as follow.
 
 ## Understanding `package.json`
 
-```json
+```js
 {
   "name": "demo",
   "version": "1.0.0",
@@ -50,7 +50,7 @@ Install core package dependencies as follow.
 ## Understanding `tsconfig.json`
 
 **Sample example**
-```json
+```js
 {
   "compilerOptions": {
     "lib": ["es5", "es6"], //Specify a set of bundled library declaration files that describe the target runtime environment.
